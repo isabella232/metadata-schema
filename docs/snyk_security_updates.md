@@ -12,10 +12,6 @@ First person to acknowledge the pull request made by the security bot should do 
 The people currently allowed to review and merge this PRs are:
 
 - @ESapenaVentura
-- @simonjupp
-- @diekhans
-- @willrockout
-- @rolando-ebi
 
 <!Anyone else?>
 
